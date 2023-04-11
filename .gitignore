@@ -14,5 +14,5 @@ wp-rocket-config/*
 advanced-cache.php
 # But not these files...
 !.gitignore
-!themes/blue-zones-jacksonville
+!themes/favber
 # etc...
